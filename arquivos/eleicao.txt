@@ -1,0 +1,3 @@
+{'Cargo': 'PRefeito', 'Sigla do Partido': 'ROG', 'Nome do candidato na urna': 'ROgeriozaooo ', 'Numero': 102021, 'Sexo': 'M'}
+{'Cargo': 'Vereador', 'Sigla do Partido': 'GUIZINHO', 'Nome do candidato na urna': 'GUUIGUIBA', 'Numero': 24, 'Sexo': 'F'}
+{'Cargo': 'Vereador', 'Sigla do Partido': 'SY', 'Nome do candidato na urna': 'Syrah', 'Numero': 123, 'Sexo': 'F'}

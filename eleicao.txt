@@ -1,0 +1,1 @@
+{'Cargo': 'Prefeito', 'Sigla do Partido': '', 'Nome do candidato na urna': 'JUA', 'Numero': 1002121, 'Sexo': 'M '}
